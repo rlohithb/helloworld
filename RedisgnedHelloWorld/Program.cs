@@ -8,6 +8,7 @@ namespace RedisgnedHelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(1+1);
+            Console.WriteLine("this is a new addition");
         }
     }
 }
