@@ -15,7 +15,11 @@ test-results/
 *.dmg
 *.app
 
+<<<<<<< HEAD
 # content below from: https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+=======
+# content below from: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+>>>>>>> 481e121... * .gitignore: First check-in. * Program.cs: First check-in * HelloWorld.csproj: First check-in * AssemblyInfo.cs:  First check-in
 # General
 .DS_Store
 .AppleDouble
@@ -44,7 +48,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 # content below from: https://github.com/github/gitignore/blob/master/Global/Windows.gitignore
+=======
+# content below from: https://github.com/github/gitignore/blob/main/Global/Windows.gitignore
+>>>>>>> 481e121... * .gitignore: First check-in. * Program.cs: First check-in * HelloWorld.csproj: First check-in * AssemblyInfo.cs:  First check-in
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
